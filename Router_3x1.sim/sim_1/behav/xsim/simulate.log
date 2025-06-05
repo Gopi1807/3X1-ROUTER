@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+Time=0 | data_out_0=00000000, data_out_1=00000000, data_out_2=00000000 | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=15000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=95000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=105000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=115000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=125000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=235000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=245000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=265000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=275000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=315000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=325000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=345000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=355000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=395000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=405000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=425000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=435000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=475000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=485000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=505000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=1
+Time=515000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=600000 | data_out_0=00000000, data_out_1=00000000, data_out_2=00000000 | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+Time=615000 | data_out_0=zzzzzzzz, data_out_1=zzzzzzzz, data_out_2=zzzzzzzz | valid_out_0=0, valid_out_1=0, valid_out_2=0 | err=0 | busy=0
+$stop called at time : 680 ns : File "C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sim_1/new/tb_top_module.v" Line 149

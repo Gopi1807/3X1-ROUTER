@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/MYPC/Router_3x1/Router_3x1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sim_1/new/tb_top_module.v,1736197913,verilog,,,,tb_top_module,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/FIFO.v,1736196553,verilog,,C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Router_reg.v,,FIFO,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Router_reg.v,1736197272,verilog,,C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Router_sync.v,,router_reg,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Router_sync.v,1736198791,verilog,,C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Top_module.v,,router_synchronizer,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/Top_module.v,1736197932,verilog,,C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/fsm.v,,top_module,,,,,,,,
+C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sources_1/new/fsm.v,1736198575,verilog,,C:/Users/MYPC/Router_3x1/Router_3x1.srcs/sim_1/new/tb_top_module.v,,fsm,,,,,,,,
